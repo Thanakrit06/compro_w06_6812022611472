@@ -24,6 +24,7 @@ int main() {
     printf("total แบบเต็ม = %.2f\n", total); //แสดงค่า total       // ใช้ %f เพื่อแสดงค่าเป็นทศนิยม
     printf("score แบบเต็ม = %d\n", score); //แสดงค่า score         // ใช้ %d เพื่อแสดงค่าเป็นจำนวนเต็ม
 
+    return 0;
 }
 
 
